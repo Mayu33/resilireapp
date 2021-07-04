@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_prontuario"
+        android:title="@string/prontuario" />
+    <item
+        android:id="@+id/menu_consulta"
+        android:title="@string/consulta" />
+    <item
+        android:id="@+id/menu_paciente"
+        android:title="@string/paciente" />
+    <item
+        android:id="@+id/menu_sensor"
+        android:title="@string/sensor" />
+    <item
+        android:id="@+id/menu_camera"
+        android:title="@string/camera" />
+</menu>

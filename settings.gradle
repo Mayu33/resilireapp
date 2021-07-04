@@ -1,0 +1,2 @@
+rootProject.name = "Resilire"
+include ':app'

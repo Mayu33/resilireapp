@@ -1,0 +1,58 @@
+<resources>
+
+    <string name="adicionar_paciente">Adicionar Paciente</string>
+    <string name="editar_paciente">Editar Paciente</string>
+    <string name="listar_pacientes">Listar Pacientes</string>
+    <string name="listar_paciente">Listar Paciente</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_consulta">ConsultaActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="app_name">Resilire</string>
+    <string name="estado">Estado</string>
+    <string name="cidade">Cidade</string>
+    <string name="observacao">Observação</string>
+    <string name="prescricao">Prescrição</string>
+    <string name="prontuario">Prontuario</string>
+    <string name="consulta">Consulta</string>
+    <string name="paciente">Paciente</string>
+    <string name="nome">Nome</string>
+    <string name="nomepaciente">Nome do Paciente</string>
+    <string name="idProntuario">ID Prontuario</string>
+    <string name="idPsicologo">ID Psicologo</string>
+    <string name="status">Status</string>
+    <string name="cpf">CPF</string>
+    <string name="email">Email</string>
+    <string name="sexo">Sexo</string>
+    <string name="cep">CEP</string>
+    <string name="logradouro">Logradouro</string>
+    <string name="bairro">Bairro</string>
+    <string name="data">Data</string>
+    <string name="adicionar">Adicionar</string>
+    <string name="editar">Editar</string>
+    <string name="listar">Listar</string>
+    <string name="telefone">Telefone</string>
+    <string name="salvar">Salvar</string>
+    <string name="excluir">Excluir</string>
+
+    <string name="gerenciar_prontuarios">Gerenciar Prontuarios</string>
+    <string name="gerenciar_consultas">Gerenciar Consultas</string>
+    <string name="gerenciar_pacientes">Gerenciar Pacientes</string>
+
+    <string name="valor_x">Valor X:</string>
+    <string name="valor_y">Valor Y:</string>
+    <string name="valor_z">Valor Z:</string>
+
+    <string name="sensor">Sensor</string>
+    <string name="camera">Câmera</string>
+    <string name="tirar_foto">Tirar Foto</string>
+
+</resources>
